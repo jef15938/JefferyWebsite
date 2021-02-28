@@ -51,7 +51,7 @@ MIT
 date-fns is licensed under the [MIT license](http://kossnocorp.mit-license.org).
 Read more about MIT at [TLDRLegal](https://tldrlegal.com/license/mit-license).
 
-xlsx@0.15.1
+xlsx@0.15.6
 Apache-2.0
 Apache License
                            Version 2.0, January 2004
@@ -241,7 +241,7 @@ Apache License
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright (C) 2012-present   SheetJS LLC 
+   Copyright (C) 2012-present   SheetJS LLC
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
